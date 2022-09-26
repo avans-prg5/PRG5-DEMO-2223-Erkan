@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avans.CodeFirstDemo.Console", "Avans.CodeFirstDemo.Console\Avans.CodeFirstDemo.Console.csproj", "{352B8F6F-7F44-4DA7-9B35-B4E634D4B9CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avans.CodeFirstDemo.EntityFramework", "Avans.CodeFirstDemo.EntityFramework\Avans.CodeFirstDemo.EntityFramework.csproj", "{F069E96A-69AF-435C-A3F5-46EF028A3D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352B8F6F-7F44-4DA7-9B35-B4E634D4B9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352B8F6F-7F44-4DA7-9B35-B4E634D4B9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352B8F6F-7F44-4DA7-9B35-B4E634D4B9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352B8F6F-7F44-4DA7-9B35-B4E634D4B9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F069E96A-69AF-435C-A3F5-46EF028A3D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F069E96A-69AF-435C-A3F5-46EF028A3D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F069E96A-69AF-435C-A3F5-46EF028A3D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F069E96A-69AF-435C-A3F5-46EF028A3D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8950B606-9C6F-40B9-94F4-34DE1D468FEF}
+	EndGlobalSection
+EndGlobal
